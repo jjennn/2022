@@ -1,2 +1,2 @@
 # 2022
-resolutions, plans, routines, dreams, motivations, etc.
+resolutions, plans, dreams, motivations, etc.
